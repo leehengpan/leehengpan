@@ -16,13 +16,15 @@ I’m Li-Heng Pan — but feel free to call me Liam. Welcome to my GitHub! Here�
 Causal Inference, A/B Testing, Experimental Design, Operations Research, Statistics, Probability
 
 🙋‍♂️ **Pronouns**: he/him/his
+
 🎯 **Currently Seeking**: Full-time new grad roles in Data Science, Machine Learning, and Software Engineering
+
 💬 Always happy to connect, chat, and collaborate!
 
 🎮 **Hobbies**:
 🏓 Ping Pong • 🎩 Magic Tricks • 📷 Photography & Videography
 
 📬 Get in touch:
-📧 Email: leehengpan@gmail.com
-🌐 Website: www.lihengpan.com
+📧 Email: leehengpan@gmail.com | 
+🌐 Website: www.lihengpan.com | 
 🔗 LinkedIn: www.linkedin.com/in/liheng-pan
