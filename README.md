@@ -24,5 +24,5 @@ Causal Inference, A/B Testing, Experimental Design, Operations Research, Statist
 
 📬 Get in touch:
 📧 Email: leehengpan@gmail.com
-🌐 Website: lihengpan.com
-🔗 LinkedIn: linkedin.com/in/liheng-pan
+🌐 Website: www.lihengpan.com
+🔗 LinkedIn: www.linkedin.com/in/liheng-pan
